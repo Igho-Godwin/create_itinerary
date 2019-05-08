@@ -1,0 +1,17 @@
+Steps in Install Application
+
+1. Unzip the application In a Folder. 
+
+2. Navigate to the folder where the main.php file is.
+
+3. Run command php main.php berlin.json [your_budget] [number of days]
+
+4. Also you should have a php server installed in your system e.g (xampp,wampp).
+
+5. And you should have php as an environmental variable.
+
+6. A modern system with a mordern day process of dual core upwards would be great for this application
+
+7. preferably a Ram of at least 2 giga byte (More For Better Performance).
+
+Thank You.
